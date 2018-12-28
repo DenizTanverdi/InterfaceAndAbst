@@ -12,6 +12,8 @@ namespace InterfaceAndAbst
         {
             Kare kare = new Kare(3);
             kare.yazdir();
+            Daire daire = new Daire(3);
+            daire.yazdir();
             Console.ReadLine();
             
         }
