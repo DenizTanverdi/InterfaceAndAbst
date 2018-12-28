@@ -18,12 +18,5 @@ namespace InterfaceAndAbst
             
         }
     }
-    interface Isekil
-    {
-        double Alan { get; set; }
-        double Cevre { get; set; }
-        double Hacim { get; set; }
-        void yazdir();
-        
-    }
+   
 }
